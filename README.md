@@ -53,4 +53,14 @@ Cosine similarity : It measures the similarity between two vectors of an inner p
 A complete chat flow is functioned inside model so that Chatbot can give accurate answers to the user according to data provide to model through data.txt file.
 
 ### 8. Chatbot Conversation
-!C:\Users\AYUSH NATH TIWARI\Pictures\Screenshots
+
+![self_cht](https://github.com/Ayush62022/Self_Learning_Chatbot/assets/140695614/1cfa48b7-361f-436a-9b93-7a86ef913403)
+
+## data.txt file
+To train chatbot text is fetch through this URL
+https://simple.wikipedia.org/wiki/Artificial_intelligence
+
+## End Notes
+We can make this self learning Chatbot more intelligent by training it with all sorts of data.
+We can use request library inside python and fetch data through URLs and make our Chatbot intelligent and self learning.
+Larger database and servers are required for storing information to make our chatbot more intelligent and make him adapt accoeding to user.
